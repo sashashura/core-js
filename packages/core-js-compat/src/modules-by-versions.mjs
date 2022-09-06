@@ -157,4 +157,7 @@ export default {
   3.25: [
     'es.object.proto',
   ],
+  3.26: [
+    'web.self',
+  ],
 };
