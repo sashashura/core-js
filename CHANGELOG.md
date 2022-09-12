@@ -1,5 +1,6 @@
 ## Changelog
 ##### Unreleased
+- Added `format` option to `core-js-builder`, [#1120](https://github.com/zloirock/core-js/issues/1120)
 - Considering `document.all` as a callable in some missed cases
 - Added Safari 16.0 compat data
 - Added iOS Safari 16.0 compat data mapping
