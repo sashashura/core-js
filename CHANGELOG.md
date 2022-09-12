@@ -1,5 +1,6 @@
 ## Changelog
 ##### Unreleased
+- Avoiding observable side effects of `%Array.prototype.values%` usage in array-like branch of `Array.fromAsync`, [proposal-array-from-async/30](https://github.com/tc39/proposal-array-from-async/pull/30)
 - Considering `document.all` as a callable in some missed cases
 - Added Safari 16.0 compat data
 - Added iOS Safari 16.0 compat data mapping
