@@ -1,6 +1,8 @@
 ## Changelog
 ##### Unreleased
-- Avoiding observable side effects of `%Array.prototype.values%` usage in array-like branch of `Array.fromAsync`, [proposal-array-from-async/30](https://github.com/tc39/proposal-array-from-async/pull/30)
+- [`Array.fromAsync` proposal](https://github.com/tc39/proposal-array-from-async):
+  - Moved to Stage 3, [September TC39 meeting](https://github.com/babel/proposals/issues/83#issuecomment-1246218703)
+  - Avoid observable side effects of `%Array.prototype.values%` usage in array-like branch, [proposal-array-from-async/30](https://github.com/tc39/proposal-array-from-async/pull/30)
 - Considering `document.all` as a callable in some missed cases
 - Added Safari 16.0 compat data
 - Added iOS Safari 16.0 compat data mapping
