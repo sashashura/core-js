@@ -1,5 +1,6 @@
 ## Changelog
 ##### Unreleased
+- Early exit on broken `.next` in missed cases of `{ Iterator, AsyncIterator }.from`, [proposal-iterator-helpers/232](https://github.com/tc39/proposal-iterator-helpers/pull/232)
 - Considering `document.all` as a callable in some missed cases
 - Added Safari 16.0 compat data
 - Added iOS Safari 16.0 compat data mapping
